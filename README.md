@@ -4,7 +4,7 @@
 - 🔭 Hoje faço faculdade de análise e desenvolvimento de sistemas
 - 🌱 Estou também estudando Python
 - 📫 Contate-me no email: rangelmendes408@gamil.com
-- 
+  
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=RangelMendes&show_icons=true&theme=tokyonight"
